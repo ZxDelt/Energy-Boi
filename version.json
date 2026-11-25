@@ -1,0 +1,8 @@
+{
+  "version": "1.0.9",
+  "commit": "33a7c17",
+  "branch": "main",
+  "buildUtc": "2026-11-25 07:55:30 UTC",
+  "unityVersion": "6000.3.19f1",
+  "graphicsApis": "WebGPU, WebGL 2"
+}
